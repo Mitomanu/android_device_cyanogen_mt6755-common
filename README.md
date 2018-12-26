@@ -1,5 +1,7 @@
 THIS IS A EXAMPLE OF HOW TO APPLY PATCHES!!!
 
+First of all I've changed the name of the patches cause it is a little hard to write those numbers :))
+
 How to apply:
 patch -p1 <*.patch
 * - name of patch
